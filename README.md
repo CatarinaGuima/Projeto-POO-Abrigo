@@ -2,4 +2,4 @@
  Projeto Abrigo - POO 🐶
 </h1>
 
-Explorando Padrões de Projetos na Prática com Java.
+Aplicação back-end. Explorando Padrões de Projetos na Prática com Java.
